@@ -1,0 +1,36 @@
+  body {
+    background-color: #EAFBFF;
+    font-style: arial;
+  }
+
+  hr {
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: medium;
+    height: 0px;
+    width: 5%;
+  }
+
+  h1 {
+    color: #66BFBF;
+  }
+
+  h3 {
+    color: #66BFBF;
+  }
+
+  /*
+  .Education{
+    color: #84DFFF;
+  }
+  */
+  img {
+    border-radius: 100%;
+  }
+
+  .link:hover{
+    color:brown;
+  }
+  .link{
+    color: #66BFBF;
+  }
